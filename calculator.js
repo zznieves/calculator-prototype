@@ -15,3 +15,6 @@ The progam will then apply the operator to the 2 numbers and produce a result.
 
 
 // Step #2: get inputs from user
+
+const input = require('prompt-sync')();
+
